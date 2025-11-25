@@ -1,0 +1,654 @@
+[
+  {
+    "text": "En un arbre hi ha 2 branques i a cada branca 2 ocells. Quants ocells hi ha en total?",
+    "result": 4
+  },
+  {
+    "text": "Hi ha 2 capses amb 2 colors cadascuna. Quants colors hi ha en total?",
+    "result": 4
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 2, quantes rodes hi ha en total?",
+    "result": 4
+  },
+  {
+    "text": "Cada moto té 2 rodes. Si n'hi ha 2, quantes rodes hi ha en total?",
+    "result": 4
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 2, quantes rodes hi ha en total?",
+    "result": 4
+  },
+  {
+    "text": "Hi ha 2 capses amb 3 nines cadascuna. Quants nines hi ha en total?",
+    "result": 6
+  },
+  {
+    "text": "Hi ha 2 capses amb 3 elefants cadascuna. Quants elefants hi ha en total?",
+    "result": 6
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 3, quantes rodes hi ha en total?",
+    "result": 6
+  },
+  {
+    "text": "Hi ha 2 cistells amb 4 pastanagues cadascun. Quants pastanagues hi ha en total?",
+    "result": 8
+  },
+  {
+    "text": "Hi ha 2 capses amb 5 llapis cadascuna. Quants llapis hi ha en total?",
+    "result": 10
+  },
+  {
+    "text": "Hi ha 2 capses amb 6 pilotes cadascuna. Quants pilotes hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Hi ha 2 capses amb 6 gats cadascuna. Quants gats hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Cada moto té 2 rodes. Si n'hi ha 7, quantes rodes hi ha en total?",
+    "result": 14
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 7, quantes rodes hi ha en total?",
+    "result": 14
+  },
+  {
+    "text": "Cada moto té 2 rodes. Si n'hi ha 7, quantes rodes hi ha en total?",
+    "result": 14
+  },
+  {
+    "text": "Hi ha 2 capses amb 8 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Hi ha 2 cistells amb 8 plàtans cadascun. Quants plàtans hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 8, quantes rodes hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Hi ha 2 capses amb 9 colors cadascuna. Quants colors hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Hi ha 2 cistells amb 9 peres cadascun. Quants peres hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 9, quantes rodes hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 9, quantes rodes hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 9, quantes rodes hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Hi ha 2 capses amb 10 gats cadascuna. Quants gats hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 10, quantes rodes hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Cada biciclete té 2 rodes. Si n'hi ha 10, quantes rodes hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Cada moto té 2 rodes. Si n'hi ha 10, quantes rodes hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Hi ha 3 cistells amb 2 peres cadascun. Quants peres hi ha en total?",
+    "result": 6
+  },
+  {
+    "text": "Hi ha 3 capses amb 2 pilotes cadascuna. Quants pilotes hi ha en total?",
+    "result": 6
+  },
+  {
+    "text": "Hi ha 3 capses amb 4 gats cadascuna. Quants gats hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Hi ha 3 capses amb 5 elefants cadascuna. Quants elefants hi ha en total?",
+    "result": 15
+  },
+  {
+    "text": "Hi ha 3 capses amb 5 pilotes cadascuna. Quants pilotes hi ha en total?",
+    "result": 15
+  },
+  {
+    "text": "Hi ha 3 cistells amb 6 plàtans cadascun. Quants plàtans hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "En un arbre hi ha 3 branques i a cada branca 7 ocells. Quants ocells hi ha en total?",
+    "result": 21
+  },
+  {
+    "text": "Hi ha 3 cistells amb 8 peres cadascun. Quants peres hi ha en total?",
+    "result": 24
+  },
+  {
+    "text": "Hi ha 3 capses amb 9 gats cadascuna. Quants gats hi ha en total?",
+    "result": 27
+  },
+  {
+    "text": "Hi ha 3 cistells amb 9 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 27
+  },
+  {
+    "text": "Hi ha 3 capses amb 10 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 30
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 2, quantes rodes hi ha en total?",
+    "result": 8
+  },
+  {
+    "text": "Hi ha 4 capses amb 2 puzzles cadascuna. Quants puzzles hi ha en total?",
+    "result": 8
+  },
+  {
+    "text": "Hi ha 4 cistells amb 2 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 8
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 3, quantes rodes hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 3, quantes rodes hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 3, quantes rodes hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 3, quantes rodes hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Hi ha 4 caixes amb 3 quaderns cadascuna. Quants quaderns hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Hi ha 4 capses amb 3 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Hi ha 4 cistells amb 4 plàtans cadascun. Quants plàtans hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Hi ha 4 cistells amb 4 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 4, quantes rodes hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Hi ha 4 capses amb 5 llapis cadascuna. Quants llapis hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Hi ha 4 capses amb 5 cotxes de joguina cadascuna. Quants cotxes de joguina hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 5, quantes rodes hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Hi ha 4 capses amb 6 gats cadascuna. Quants gats hi ha en total?",
+    "result": 24
+  },
+  {
+    "text": "Hi ha 4 cistells amb 6 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 24
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 6, quantes rodes hi ha en total?",
+    "result": 24
+  },
+  {
+    "text": "Hi ha 4 capses amb 7 puzzles cadascuna. Quants puzzles hi ha en total?",
+    "result": 28
+  },
+  {
+    "text": "Hi ha 4 capses amb 7 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 28
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 7, quantes rodes hi ha en total?",
+    "result": 28
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 7, quantes rodes hi ha en total?",
+    "result": 28
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 7, quantes rodes hi ha en total?",
+    "result": 28
+  },
+  {
+    "text": "Hi ha 4 capses amb 8 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 32
+  },
+  {
+    "text": "En un arbre hi ha 4 branques i a cada branca 8 ocells. Quants ocells hi ha en total?",
+    "result": 32
+  },
+  {
+    "text": "Hi ha 4 capses amb 9 conills cadascuna. Quants conills hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 9, quantes rodes hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 9, quantes rodes hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Hi ha 4 capses amb 10 cotxes de joguina cadascuna. Quants cotxes de joguina hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 10, quantes rodes hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Cada cotxe té 4 rodes. Si n'hi ha 10, quantes rodes hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Hi ha 5 capses amb 2 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 10
+  },
+  {
+    "text": "Hi ha 5 cistells amb 3 pomes cadascun. Quants pomes hi ha en total?",
+    "result": 15
+  },
+  {
+    "text": "Hi ha 5 cistells amb 3 pastanagues cadascun. Quants pastanagues hi ha en total?",
+    "result": 15
+  },
+  {
+    "text": "Hi ha 5 capses amb 4 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Hi ha 5 capses amb 4 nines cadascuna. Quants nines hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Hi ha 5 cistells amb 5 plàtans cadascun. Quants plàtans hi ha en total?",
+    "result": 25
+  },
+  {
+    "text": "Hi ha 5 capses amb 5 llapis cadascuna. Quants llapis hi ha en total?",
+    "result": 25
+  },
+  {
+    "text": "Hi ha 5 cistells amb 6 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 30
+  },
+  {
+    "text": "Hi ha 5 capses amb 7 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 35
+  },
+  {
+    "text": "Hi ha 5 capses amb 7 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 35
+  },
+  {
+    "text": "En un arbre hi ha 5 branques i a cada branca 8 ocells. Quants ocells hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Hi ha 5 cistells amb 8 pastanagues cadascun. Quants pastanagues hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Hi ha 5 cistells amb 9 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 45
+  },
+  {
+    "text": "Hi ha 5 capses amb 9 llapis cadascuna. Quants llapis hi ha en total?",
+    "result": 45
+  },
+  {
+    "text": "Hi ha 5 capses amb 10 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 50
+  },
+  {
+    "text": "Hi ha 5 capses amb 10 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 50
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 2, quantes rodes hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "En un arbre hi ha 6 branques i a cada branca 2 ocells. Quants ocells hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Hi ha 6 caixes amb 2 quaderns cadascuna. Quants quaderns hi ha en total?",
+    "result": 12
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 3, quantes rodes hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 3, quantes rodes hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Hi ha 6 capses amb 3 pilotes cadascuna. Quants pilotes hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Hi ha 6 capses amb 3 elefants cadascuna. Quants elefants hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 4, quantes rodes hi ha en total?",
+    "result": 24
+  },
+  {
+    "text": "En un arbre hi ha 6 branques i a cada branca 4 ocells. Quants ocells hi ha en total?",
+    "result": 24
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 5, quantes rodes hi ha en total?",
+    "result": 30
+  },
+  {
+    "text": "Hi ha 6 capses amb 5 llapis cadascuna. Quants llapis hi ha en total?",
+    "result": 30
+  },
+  {
+    "text": "En un arbre hi ha 6 branques i a cada branca 5 ocells. Quants ocells hi ha en total?",
+    "result": 30
+  },
+  {
+    "text": "Hi ha 6 capses amb 6 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Hi ha 6 caixes amb 6 quaderns cadascuna. Quants quaderns hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 6, quantes rodes hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 6, quantes rodes hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Hi ha 6 capses amb 7 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 42
+  },
+  {
+    "text": "Hi ha 6 capses amb 7 elefants cadascuna. Quants elefants hi ha en total?",
+    "result": 42
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 7, quantes rodes hi ha en total?",
+    "result": 42
+  },
+  {
+    "text": "Hi ha 6 capses amb 8 cotxes de joguina cadascuna. Quants cotxes de joguina hi ha en total?",
+    "result": 48
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 8, quantes rodes hi ha en total?",
+    "result": 48
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 8, quantes rodes hi ha en total?",
+    "result": 48
+  },
+  {
+    "text": "Hi ha 6 caixes amb 9 quaderns cadascuna. Quants quaderns hi ha en total?",
+    "result": 54
+  },
+  {
+    "text": "Hi ha 6 capses amb 10 colors cadascuna. Quants colors hi ha en total?",
+    "result": 60
+  },
+  {
+    "text": "Hi ha 6 capses amb 10 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 60
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 10, quantes rodes hi ha en total?",
+    "result": 60
+  },
+  {
+    "text": "Cada autobuso té 6 rodes. Si n'hi ha 10, quantes rodes hi ha en total?",
+    "result": 60
+  },
+  {
+    "text": "En un arbre hi ha 7 branques i a cada branca 2 ocells. Quants ocells hi ha en total?",
+    "result": 14
+  },
+  {
+    "text": "Hi ha 7 cistells amb 3 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 21
+  },
+  {
+    "text": "Hi ha 7 cistells amb 4 plàtans cadascun. Quants plàtans hi ha en total?",
+    "result": 28
+  },
+  {
+    "text": "Hi ha 7 cistells amb 5 peres cadascun. Quants peres hi ha en total?",
+    "result": 35
+  },
+  {
+    "text": "Hi ha 7 capses amb 5 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 35
+  },
+  {
+    "text": "Hi ha 7 caixes amb 6 quaderns cadascuna. Quants quaderns hi ha en total?",
+    "result": 42
+  },
+  {
+    "text": "Hi ha 7 capses amb 6 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 42
+  },
+  {
+    "text": "Hi ha 7 capses amb 8 conills cadascuna. Quants conills hi ha en total?",
+    "result": 56
+  },
+  {
+    "text": "Hi ha 7 capses amb 9 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 63
+  },
+  {
+    "text": "Hi ha 7 capses amb 10 cotxes de joguina cadascuna. Quants cotxes de joguina hi ha en total?",
+    "result": 70
+  },
+  {
+    "text": "Hi ha 7 capses amb 10 gossos cadascuna. Quants gossos hi ha en total?",
+    "result": 70
+  },
+  {
+    "text": "Hi ha 8 cistells amb 2 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Hi ha 8 capses amb 2 conills cadascuna. Quants conills hi ha en total?",
+    "result": 16
+  },
+  {
+    "text": "Hi ha 8 capses amb 3 puzzles cadascuna. Quants puzzles hi ha en total?",
+    "result": 24
+  },
+  {
+    "text": "Hi ha 8 capses amb 4 llapis cadascuna. Quants llapis hi ha en total?",
+    "result": 32
+  },
+  {
+    "text": "Hi ha 8 capses amb 4 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 32
+  },
+  {
+    "text": "Hi ha 8 capses amb 5 elefants cadascuna. Quants elefants hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Hi ha 8 capses amb 5 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Hi ha 8 cistells amb 6 pastanagues cadascun. Quants pastanagues hi ha en total?",
+    "result": 48
+  },
+  {
+    "text": "Hi ha 8 capses amb 6 conills cadascuna. Quants conills hi ha en total?",
+    "result": 48
+  },
+  {
+    "text": "Hi ha 8 capses amb 7 cotxes de joguina cadascuna. Quants cotxes de joguina hi ha en total?",
+    "result": 56
+  },
+  {
+    "text": "Hi ha 8 capses amb 7 gossos cadascuna. Quants gossos hi ha en total?",
+    "result": 56
+  },
+  {
+    "text": "Hi ha 8 capses amb 8 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 64
+  },
+  {
+    "text": "Hi ha 8 cistells amb 9 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 72
+  },
+  {
+    "text": "Hi ha 8 capses amb 10 gats cadascuna. Quants gats hi ha en total?",
+    "result": 80
+  },
+  {
+    "text": "Hi ha 8 capses amb 10 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 80
+  },
+  {
+    "text": "Hi ha 9 caixes amb 2 quaderns cadascuna. Quants quaderns hi ha en total?",
+    "result": 18
+  },
+  {
+    "text": "Hi ha 9 capses amb 3 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 27
+  },
+  {
+    "text": "Hi ha 9 capses amb 3 llapis cadascuna. Quants llapis hi ha en total?",
+    "result": 27
+  },
+  {
+    "text": "Hi ha 9 cistells amb 4 pastanagues cadascun. Quants pastanagues hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Hi ha 9 capses amb 4 colors cadascuna. Quants colors hi ha en total?",
+    "result": 36
+  },
+  {
+    "text": "Hi ha 9 cistells amb 5 plàtans cadascun. Quants plàtans hi ha en total?",
+    "result": 45
+  },
+  {
+    "text": "Hi ha 9 capses amb 5 conills cadascuna. Quants conills hi ha en total?",
+    "result": 45
+  },
+  {
+    "text": "Hi ha 9 cistells amb 6 peres cadascun. Quants peres hi ha en total?",
+    "result": 54
+  },
+  {
+    "text": "Hi ha 9 capses amb 7 cubells cadascuna. Quants cubells hi ha en total?",
+    "result": 63
+  },
+  {
+    "text": "Hi ha 9 cistells amb 7 pomes cadascun. Quants pomes hi ha en total?",
+    "result": 63
+  },
+  {
+    "text": "Hi ha 9 cistells amb 9 pomes cadascun. Quants pomes hi ha en total?",
+    "result": 81
+  },
+  {
+    "text": "Hi ha 9 capses amb 9 cotxes de joguina cadascuna. Quants cotxes de joguina hi ha en total?",
+    "result": 81
+  },
+  {
+    "text": "Hi ha 9 cistells amb 10 peres cadascun. Quants peres hi ha en total?",
+    "result": 90
+  },
+  {
+    "text": "Hi ha 10 capses amb 2 gossos cadascuna. Quants gossos hi ha en total?",
+    "result": 20
+  },
+  {
+    "text": "Hi ha 10 cistells amb 4 tomàquets cadascun. Quants tomàquets hi ha en total?",
+    "result": 40
+  },
+  {
+    "text": "Hi ha 10 capses amb 5 cotxes de joguina cadascuna. Quants cotxes de joguina hi ha en total?",
+    "result": 50
+  },
+  {
+    "text": "Hi ha 10 capses amb 6 gomes cadascuna. Quants gomes hi ha en total?",
+    "result": 60
+  },
+  {
+    "text": "Hi ha 10 cistells amb 6 pomes cadascun. Quants pomes hi ha en total?",
+    "result": 60
+  },
+  {
+    "text": "Hi ha 10 capses amb 7 elefants cadascuna. Quants elefants hi ha en total?",
+    "result": 70
+  },
+  {
+    "text": "Hi ha 10 capses amb 7 pilotes cadascuna. Quants pilotes hi ha en total?",
+    "result": 70
+  },
+  {
+    "text": "Hi ha 10 cistells amb 8 pomes cadascun. Quants pomes hi ha en total?",
+    "result": 80
+  },
+  {
+    "text": "Hi ha 10 capses amb 9 gats cadascuna. Quants gats hi ha en total?",
+    "result": 90
+  },
+  {
+    "text": "Hi ha 10 capses amb 9 gats cadascuna. Quants gats hi ha en total?",
+    "result": 90
+  },
+  {
+    "text": "Hi ha 10 capses amb 10 gats cadascuna. Quants gats hi ha en total?",
+    "result": 100
+  },
+  {
+    "text": "Hi ha 10 cistells amb 10 plàtans cadascun. Quants plàtans hi ha en total?",
+    "result": 100
+  }
+]
