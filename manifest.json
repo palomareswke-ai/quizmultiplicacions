@@ -1,0 +1,7 @@
+{
+  "name": "Quiz Multiplicacions",
+  "short_name": "QuizMult",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#ffffff"
+}
